@@ -1,0 +1,6 @@
+{
+  "name": "Praat for komodo",
+  "tagline": "",
+  "body": "# PRAAT for Komodo\r\n\r\nUDL based support for syntax highlighting of the PRAAT scripting language in Komodo IDE.\r\n\r\n\r\nDeveloped for Komodo IDE 10.0.1 and PRAAT 6.0.19 and released under MIT licence.\r\n\r\n\r\nPRAAT homepage: http://www.fon.hum.uva.nl/praat/\r\n\r\nKomodo IDE homepage: http://komodoide.com\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
