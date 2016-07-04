@@ -7,7 +7,7 @@
         <em:version>0.1</em:version>
         <em:description>Syntax highlighting for PRAAT scripts</em:description>
         <em:creator>Steve Welburn</em:creator>
-        <em:homepageURL>http://yourdomain.org/praat_language_highlighting</em:homepageURL>
+        <em:homepageURL>https://github.com/sjwqmul/praat_for_komodo</em:homepageURL>
         <em:type>2</em:type> <!-- type=extension --> 
 
         <em:targetApplication>
